@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "prtscn"
+title:		           "prtscrn.be"
 description:	       "Where I explain things to the internet"
 author:              "Tom Bernaerd"
 
